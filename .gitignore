@@ -1,0 +1,8 @@
+**/.git/*
+**/target/*
+/.idea/*
+/out/*
+*.iml
+**/META-INF/*
+**/nb-configuration.xml
+**/hibernate.configs.xml
